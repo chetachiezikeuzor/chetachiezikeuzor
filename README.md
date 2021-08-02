@@ -23,4 +23,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chetachiezikeuzor&show_icons=true&locale=en" alt="chetachiezikeuzor" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chetachiezikeuzor&" alt="chetachiezikeuzor" /></p>
