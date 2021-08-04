@@ -1,3 +1,7 @@
+![Chetachi](https://user-images.githubusercontent.com/79069364/128205569-73e909e5-3fe3-43ee-8183-8baf0a30bfde.png)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=chetachiezikeuzor&color=blue) 
+
 # Hello, I'm Chetachi! <img src="https://raw.githubusercontent.com/chetachiezikeuzor/chetachiezikeuzor/main/wave.gif" width="30px">
 
 <h3>A passionate software developer and designer from Texas!</h3>
