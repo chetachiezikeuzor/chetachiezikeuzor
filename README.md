@@ -12,7 +12,7 @@
   </a>
 </p>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=chetachiezikeuzor&color=blue) 
+![Visitor Count](https://komarev.com/ghpvc/?username=chetachiezikeuzor&color=blue)
 
 <h3>A passionate software developer and designer from Texas!</h3>
 
@@ -27,4 +27,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=chetachiezikeuzor&show_icons=true&locale=en" alt="chetachiezikeuzor" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chetachiezikeuzor&show_icons=true&locale=en&layout=compact" alt="chetachiezikeuzor" />
-
