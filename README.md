@@ -1,8 +1,18 @@
 ![Chetachi](https://raw.githubusercontent.com/chetachiezikeuzor/chetachiezikeuzor/main/assets/Chetachi.gif)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=chetachiezikeuzor&color=blue) 
-
 # Hello, I'm Chetachi! <img src="https://raw.githubusercontent.com/chetachiezikeuzor/chetachiezikeuzor/main/wave.gif" width="30px">
+
+<p>
+  <a href="https://www.linkedin.com/in/chetachi/" rel="nofollow">
+    <img align="center" src="https://raw.githubusercontent.com/chetachiezikeuzor/chetachiezikeuzor/main/assets/linkedinblue.png" alt="linkedin" height="30px" style="max-width:100%;">
+  </a> 
+  &nbsp;
+   <a href="https://twitter.com/chetachiiii" rel="nofollow">
+    <img align="center" src="https://raw.githubusercontent.com/chetachiezikeuzor/chetachiezikeuzor/main/assets/twitterblue.png" alt="blog" height="30px" style="max-width:100%;">
+  </a>
+</p>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=chetachiezikeuzor&color=blue) 
 
 <h3>A passionate software developer and designer from Texas!</h3>
 
