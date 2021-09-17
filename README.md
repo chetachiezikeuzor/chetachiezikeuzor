@@ -14,7 +14,7 @@
 
 <h4>A passionate software developer and designer from Texas!</h4>
 
-- 🌱 I’m currently learning **Vue, React, Python**
+- 🌱 I’m currently learning **Java, SQL, Vue, React, Python**
 - 💬 Ask me about `UX/UI design`, **JavaScript, TypeScript, CSS, HTML**
 - 👩🏽‍💻 I play in `.html`, .ts, `.js`, `.jsx`, `.css`, `.scss`, `.svg` every day
 - ♟ Fun fact I play chess, even though I'm pretty bad at it 😅
