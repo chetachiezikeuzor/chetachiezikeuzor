@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Java, SQL, Vue, React, Python**
 - 💬 Ask me about `UX/UI design`, **JavaScript, TypeScript, CSS, HTML**
-- 👩🏽‍💻 I play in `.html`, .ts, `.js`, `.jsx`, `.css`, `.scss`, `.svg` every day
+- 👩🏽‍💻 I play in `.html`, `.ts`, `.js`, `.jsx`, `.css`, `.scss`, `.svg` every day
 - ♟ Fun fact I play chess, even though I'm pretty bad at it 😅
 
 <h4 align="left">These are a few languages and tools I use often:</h4>
