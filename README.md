@@ -17,7 +17,7 @@
 
 <h4>I'm a passionate software developer from Texas.</h4>
 
-- Always tinkering with Java, React, and Python projects — I like turning small ideas into working tools and seeing where curiosity takes me.
+- Always exploring with Java, React, and Python projects — I like turning small ideas into working tools and seeing where curiosity takes me.
 - Love experimenting with design systems, layout tweaks, and code snippets to make workspaces feel personal and efficient.
 - Chess enthusiast — not a grandmaster yet, but it keeps my problem-solving skills sharp and my mind flexible.
 
